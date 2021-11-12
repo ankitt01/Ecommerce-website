@@ -6,27 +6,27 @@ import './directory.styles.scss';
 
 const sections = [
     {
-        title: 'hats',
+        title: 'Hats',
         imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
         id:1
     },
     {
-        title: 'jackets',
+        title: 'Jackets',
         imageUrl: 'https://i.ibb.co/px2tCc3/jackcets.png',
         id:2
     },
     {
-        title: 'sneakers',
+        title: 'Sneakers',
         imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
         id:3
     },
     {
-        title: 'womens',
+        title: 'Womens',
         imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
         id:4
     },
     {
-        title: 'mens',
+        title: 'Mens',
         imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
         id:5
     }
